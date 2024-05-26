@@ -1,49 +1,49 @@
 # Basic Bash Commands
 
-ls: List directory contents
+**ls** : List directory contents
 
-cd: Change directory
+**cd**: Change directory
 
-pwd: Print working directory
+**pwd**: Print working directory
 
-cp: Copy files or directories
+**cp**: Copy files or directories
 
-mv: Move/rename files or directories
+**mv**: Move/rename files or directories
 
-rm: Remove files or directories
+**rm**: Remove files or directories
 
-echo: Display a line of text
+**echo**: Display a line of text
 
-cat: Concatenate and display files
+**cat**: Concatenate and display files
 
-grep: Search for patterns in files
+**grep**: Search for patterns in files
 
 
 ## Bash Operators
 
 ### Arithmetic Operators:
 ```sh
-echo $((2 + 2))  # Addition
-echo $((5 - 3))  # Subtraction
-echo $((4 * 3))  # Multiplication
-echo $((8 / 2))  # Division
-echo $((10 % 3)) # Modulus
+echo $((2 + 2))  # **Addition**
+echo $((5 - 3))  # **Subtraction**
+echo $((4 * 3))  # **Multiplication**
+echo $((8 / 2))  # **Division**
+echo $((10 % 3)) # **Modulus**
 ```
 
 ### Comparison Operators:
 ```sh
-[ 5 -eq 5 ]   # Equal to
-[ 5 -ne 3 ]   # Not equal to
-[ 5 -gt 3 ]   # Greater than
-[ 3 -lt 5 ]   # Less than
-[ 5 -ge 5 ]   # Greater than or equal to
-[ 3 -le 5 ]   # Less than or equal to
+[ 5 -eq 5 ]   # **Equal to**
+[ 5 -ne 3 ]   # **Not equal to**
+[ 5 -gt 3 ]   # **Greater than**
+[ 3 -lt 5 ]   # **Less than**
+[ 5 -ge 5 ]   # **Greater than or equal to**
+[ 3 -le 5 ]   # **Less than or equal to**
 ```
 
 ### Logical Operators:
 ```sh
-[ 5 -eq 5 ] && echo "Equal"   # AND
-[ 5 -eq 5 ] || echo "Not Equal"  # OR
+[ 5 -eq 5 ] && echo "Equal"   # **AND**
+[ 5 -eq 5 ] || echo "Not Equal"  # **OR**
 ```
 
 ## Bash Conditional Statements
