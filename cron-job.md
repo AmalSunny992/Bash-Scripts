@@ -22,9 +22,13 @@ Each line in the crontab file represents a scheduled task and follows this forma
 
 ### Special Characters
 `*`: Represents all possible values (e.g., every minute, every hour)
+
 `,`: Separates multiple values (e.g., "1,15" means at minute 1 and minute 15)
+
 `-`: Specifies a range of values (e.g., "1-5" means from minute 1 to minute 5)
+
 `/`: Specifies step values (e.g., "*/5" means every 5 minutes)
+
 
 ## Managing Cron Jobs
 
