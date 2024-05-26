@@ -93,8 +93,8 @@ done
 ### String Manipulation:
 ```sh
 str="Hello, World!"
-echo ${str:7}       # Output: World!
-echo ${str:7:5}     # Output: World
+echo ${str:7}          # Output: World!
+echo ${str:7:5}        # Output: World
 echo ${str/World/Bash} # Output: Hello, Bash!
 ```
 
