@@ -1,14 +1,23 @@
 # Basic Bash Commands
 
 ls: List directory contents
+
 cd: Change directory
+
 pwd: Print working directory
+
 cp: Copy files or directories
+
 mv: Move/rename files or directories
+
 rm: Remove files or directories
+
 echo: Display a line of text
+
 cat: Concatenate and display files
+
 grep: Search for patterns in files
+
 
 ## Bash Operators
 
