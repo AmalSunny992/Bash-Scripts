@@ -20,21 +20,21 @@ This tells the system to use the Bash shell to execute the commands in the scrip
 
 ## How to Write Bash Scripts?
 1. **Create a new file**:
-   ```sh
-   touch script.sh
-   ```
+```sh
+touch script.sh
+```
 2. **Make the script executable**:
 ```sh
 chmod +x script.sh
 ```
-3. Write your script: Open the file in a text editor and add your Bash commands. 
+3. **Write your script**: Open the file in a text editor and add your Bash commands. 
 
    A basic script structure looks like this:
    ```sh
    #!/bin/bash
    echo "Hello, World!"
    ```
-4. Run the script:
+4. **Run the script**: Open terminal and execute the script file.
 ```sh
 ./script.sh
 ```
