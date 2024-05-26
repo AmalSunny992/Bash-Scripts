@@ -3,10 +3,10 @@
 Welcome to the Bash Script Learning Repository! This repository is designed to helps understand the basics of Bash Scripting with example scripts.
 
 ## Table of Contents
-1. [Introduction to Bash Scripting]
-2. [Basic Bash Commands]
-3. [Cron Jobs]
-4. [Bash Scripts examples]
+1. [Introduction to Bash Scripting](./introduction.md)
+2. [Basic Bash Commands](./basic-bash-commands.md)
+3. [Cron Jobs](./cron-job.md)
+4. [Bash Scripts examples](./examples)
    1. [a]
    2. [b]
    3. [c]
