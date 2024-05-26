@@ -29,11 +29,11 @@ chmod +x script.sh
 ```
 3. Write your script: Open the file in a text editor and add your Bash commands. 
 
-A basic script structure looks like this:
-```sh
-#!/bin/bash
-echo "Hello, World!"
-```
+   A basic script structure looks like this:
+   ```sh
+   #!/bin/bash
+   echo "Hello, World!"
+   ```
 4. Run the script:
 ```sh
 ./script.sh
