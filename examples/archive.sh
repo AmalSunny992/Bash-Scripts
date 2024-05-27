@@ -1,12 +1,8 @@
 #!/bin/bash
 
-echo "Enter the source directory path for Archiving : "
-input " "
-echo "Enter the source directory path for Archiving : "
-echo "Enter the filename to be used "
-filename=$(date +"%Y%m%d%Hh%Mm%Ss")
-source_dir=$(pwd)
-dest_dir="/home/devops/backup"
+read -p "Enter the source directory path for Archiving : " source_dir
+read -p "Enter the destination directory for archived file to be placed: " dest_dir
+read -p "Enter the filename to be used "filename
 
 tar -czf "$dest_dir/$filename.tar.gz" "$source_dir"
 echo "Archive created: $dest_dir/$filename.tar.gz"
