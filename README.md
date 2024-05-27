@@ -20,8 +20,8 @@ Welcome to the Bash Script Learning Repository! This repository is designed to h
    11. [Setup Firewall](./examples/setup-firewall.sh)
    12. [Update System](./examples/update-system.sh)
    13. [Create User](./examples/user.sh)
-   14. [List all Installed Packages](./list-installed-packages.sh)
-   15. [List Large Files](./list-large-files.sh)
+   14. [List all Installed Packages](./examples//list-installed-packages.sh)
+   15. [List Large Files](./examples//list-large-files.sh)
 5. [Useful Links]
 
 ## License
