@@ -22,5 +22,5 @@ echo "====================Add new user to a group==========================="
 echo " "
 read -p "Enter the group to add '$username' to : " group
 echo " "
-usermod "$group" "$username"
+usermod -aG "$group" "$username"
 echo "User $USERNAME created."
