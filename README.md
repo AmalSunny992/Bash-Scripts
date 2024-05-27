@@ -9,7 +9,7 @@ Welcome to the Bash Script Learning Repository! This repository is designed to h
 4. [Bash Scripts examples](./examples)
    1. [Archive a folder](./examples/archive.sh)
    2. [Check SSH Connections](./examples/check-ssh-connections.sh)
-   3. [clean-temp-files](./examples/clean-temp-files.sh)
+   3. [Clean-temp-files](./examples/clean-temp-files.sh)
    4. [Clear Cache](./examples/clear-cache.sh)
    5. [CPU Details](./examples/cpu.sh)
    6. [Delete a User](./examples/delete-user.sh)
