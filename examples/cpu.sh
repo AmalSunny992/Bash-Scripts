@@ -16,7 +16,5 @@ echo "=============Architecture==============="
 echo $(uname -m)
 echo "===========Uptime======================="
 echo $(uptime)
-#echo "===========Temperature=================="
-#echo $(sensors)
 echo "========================================"
 
