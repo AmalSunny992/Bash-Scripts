@@ -200,7 +200,9 @@ Output Screenshot:
 ## List Large Files
 This shell script finds and lists files in a specified directory that are larger than a specified size. 
 
-**Usage** : To run the script, you would provide a directory and a size threshold. For example:
+**Usage** : To run the script, you would provide a directory and a size threshold. 
+
+For example:
 
 ```bash
 ./script.sh /path/to/directory 100M
