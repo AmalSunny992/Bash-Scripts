@@ -34,6 +34,7 @@ Happy learning!
  [Script](./examples/archive.sh)
 
  Output Screenshot:
+ 
  ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/248426ae-08c8-4304-9da9-f0aafb5566ea)
 
 
@@ -48,6 +49,7 @@ This shell script checks and displays the number of active SSH connections on th
 [Script](./examples/check-ssh-connections.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/66a98ea8-0420-471a-9200-fbee41eef4e3)
 
 
@@ -62,6 +64,7 @@ This shell script deletes files in the /tmp directory that are older than 7 days
 [Script](./examples/clean-temp-files.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/3a922d7b-b2ee-4b0a-957e-f8068058501d)
 
 
@@ -76,6 +79,7 @@ This shell script clears the system cache.
 [Script](./examples/clear-cache.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/ce45e45a-5f40-409b-a24c-6ea62ec4e85c)
 
 
@@ -90,6 +94,7 @@ This shell script displays various pieces of system information
 [Script](./examples/cpu.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/73c53ddb-b127-4b78-b189-05e410a4c06f)
 
 
@@ -104,6 +109,7 @@ This shell script deletes a specified user from the system, ensuring that it is 
 [Script](./examples/delete-user.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/f433b09b-0636-4b06-a085-4388196cc9a0)
 
 
@@ -118,6 +124,7 @@ This shell script displays disk allocation and memory usage information.
 [Script](./examples/diskspace.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/59971621-6304-4ded-8a1d-e16c932e7d17)
 
 
@@ -132,6 +139,7 @@ This shell script displays network details of the system, including the hostname
 [Script](./examples/network.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/f0631565-ea7e-4bda-be90-90489074726e)
 
 ## Restart a Service
@@ -150,6 +158,7 @@ Enter Service name to restart: apache2
 [Script](./examples/restart-service.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/2241b836-8add-4328-a68e-85841a411c6d)
 
 ## Get Status of a Service
@@ -167,6 +176,7 @@ For example:
 [Script](./examples/service-status.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/f651bf6d-cf08-4a1b-992e-9dbea127a9bb)
 
 ## Setup Firewall
@@ -180,6 +190,7 @@ This shell script sets up basic firewall rules using ufw (Uncomplicated Firewall
 [Script](./examples/setup-firewall.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/59a14576-06dc-4e05-a9f3-6c21da9d2172)
 
 
@@ -194,6 +205,7 @@ This script updates the system packages using apt.
 [Script](./examples/update-system.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/6c1a6ed4-0be4-49fe-8c26-6b5e56beead7)
 
 ## Create User
@@ -207,6 +219,7 @@ This script creates a new user and add them to a specified group.
 [Script](./examples/user.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/249fa6a8-3af4-49ee-98b6-e508a6e4e1e7)
 
 ## List all Installed Packages
@@ -220,6 +233,7 @@ This Script lists all installed packages on a Debian-based system
 [Script](./examples//list-installed-packages.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/c40db3f5-3a9c-47ab-933d-ee51c58be734)
 
 ## List Large Files
@@ -235,5 +249,6 @@ For example:
 [Script](./examples//list-large-files.sh)
 
 Output Screenshot:
+
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/7d21bed8-e0d6-4861-8703-d1f61331dc6c)
 
