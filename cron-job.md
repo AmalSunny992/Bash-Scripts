@@ -109,3 +109,5 @@ The backup file is named with the current date.
 
 This guide provides an overview of cron jobs, how to manage them, and includes an example of a daily backup script. 
 Cron jobs are a powerful way to automate routine tasks in a Unix-based system
+
+[<< [Previous](./basic-bash-commands.md)     [Home](./README.md)     [Next >>](./examples/examples.md)
