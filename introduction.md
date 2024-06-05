@@ -39,6 +39,7 @@ chmod +x script.sh
 ./script.sh
 ```
 
-[<< Back to Home](./README.md)                                              [Next >>](./basic-bash-commands.md)
+[<< Back to Home](./README.md)                                              
+[Next >>](./basic-bash-commands.md)
 
 
