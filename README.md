@@ -8,7 +8,7 @@ Welcome to the Bash Script Learning Repository! This repository is designed to h
 1. [Introduction to Bash Scripting](./introduction.md)
 2. [Basic Bash Commands](./basic-bash-commands.md)
 3. [Cron Jobs](./cron-job.md)
-4. [Bash Scripts examples](./examples)
+4. [Bash Scripts examples](./examples/examples.md)
    1. [Archive a folder](./examples/archive.sh)
    2. [Check SSH Connections](./examples/check-ssh-connections.sh)
    3. [Clean-temp-files](./examples/clean-temp-files.sh)
