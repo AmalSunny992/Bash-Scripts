@@ -38,3 +38,7 @@ chmod +x script.sh
 ```sh
 ./script.sh
 ```
+
+[Next >>](./)
+
+[<< Back to Home](./)
