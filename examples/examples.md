@@ -252,3 +252,6 @@ Output Screenshot:
 
 ![image](https://github.com/AmalSunny992/bashscripts/assets/169422802/7d21bed8-e0d6-4861-8703-d1f61331dc6c)
 
+
+[<< Previous](../basic-bash-commands.md)     [Home](../README.md)
+
