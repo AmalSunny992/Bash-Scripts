@@ -38,7 +38,27 @@ chmod +x script.sh
 ```sh
 ./script.sh
 ```
+## Variables and Data Types in Shell Scripting
+Variables in shell scripting are used to store data temporarily. Unlike other programming languages, shell scripting has loosely typed variables.
 
+- Declaring Variables:
+   ```bash
+   name="John"
+   age=30
+   ```
+- Data Types:
+   - String: Textual data (name="John").
+   - Integer: Numeric data (age=30).
+   - Arrays: List of values (array=(value1 value2 value3)).
+
+- Special Variables:
+   - $0: Name of the script.
+   - $1, $2, ...: Positional parameters passed to the script.
+   - $@: All positional parameters as separate words ("$@" expands each parameter as a separate word).
+   - $#: Number of positional parameters.
+   - **$?: Exit status of the last command.
+   - $$: PID (Process ID) of the current shell.
+     
 [<< Back to Home](./README.md)                                              
 [Next >>](./basic-bash-commands.md)
 
