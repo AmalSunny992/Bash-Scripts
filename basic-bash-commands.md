@@ -49,6 +49,9 @@ echo $((10 % 3)) # Modulus
 ## Bash Conditional Statements
 
 ### if statement:
+
+Conditional statements allow you to execute certain commands based on specified conditions.
+
 ```sh
 if [ condition ]; then
   # code to execute if condition is true
@@ -71,8 +74,11 @@ fi
 ```
 
 ## Bash Loops
+Loops allow you to iterate over a set of commands repeatedly.
 
 ### for loop:
+Executes a sequence of commands for each item in a list or range.
+
 ```sh
 for i in {1..5}; do
   echo "Welcome $i times"
@@ -80,6 +86,8 @@ done
 ```
 
 ### while loop:
+Executes a set of commands as long as a specified condition is true.
+
 ```sh
 count=1
 while [ $count -le 5 ]; do
