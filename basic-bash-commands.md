@@ -123,6 +123,7 @@ done
 ```
 
 ## Bash Function
+Functions in shell scripts allow you to group code into reusable blocks.
 
 ### Defining and Calling Functions:
 
@@ -141,5 +142,28 @@ greet() {
 }
 greet "Alice"  # Output: Hello, Alice!
 ```
+
+## Error Handling in Shell Scripts
+Error handling ensures scripts gracefully handle unexpected situations or errors.
+
+### Exit Status:
+- Every command in Linux returns an exit status (0 for success, non-zero for failure).
+- Use $? to get the exit status of the last command.
+
+### Handling Errors:
+``` bash
+command
+if [ $? -ne 0 ]; then
+    echo "Error: Command failed"
+    exit 1
+fi
+```
+
+### Error Handling Techniques:
+Exit Codes: Use exit to terminate the script with a specific exit status.
+
+Error Messages: Display meaningful error messages using echo.
+
+Logging: Redirect error output (stderr) to a log file for troubleshooting.
 
 [Home](./README.md) [Next >>](./cron-job.md)
