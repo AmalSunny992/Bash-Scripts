@@ -26,7 +26,6 @@ Happy Learning!
    13. [Create User](./examples/examples.md#create-user)
    14. [List all Installed Packages](./examples/examples.md#list-all-installed-packages)
    15. [List Large Files](./examples/examples.md#list-large-files)
-5. [Useful Links]
 
 ## License
 This project is licensed under the terms of the Apache license. See the [LICENSE](./LICENSE) file for details.
