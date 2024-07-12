@@ -4,8 +4,6 @@
 
 Welcome to the Bash Script Learning Repository! This repository is designed to helps understand the basics of Bash Scripting with example scripts.
 
-Happy Learning!
-
 ## Table of Contents
 1. [Introduction to Bash Scripting](./introduction.md)
 2. [Basic Bash Commands](./basic-bash-commands.md)
